@@ -11,9 +11,9 @@
 	"Admob": {
 		"Admob_adstatus": true,
 		"Admob_Appopen": "/229445249,22796693593/DWTag-DFPNew_RS95_AllAITools_Infiycube_AppOpen_060223_InApp",
-		"Admob_Interstrial": "/229445249,22796693593",
-		"Admob_Native": "/229445249,22796693593",
-		"Admob_Banner": "/229445249,22796693593"
+		"Admob_Interstrial": "/229445249,22796693593/DWTag-DFPNew_RS95_AllAITools_Infiycube_Interstitial_060223_InApp",
+		"Admob_Native": "/229445249,22796693593/DWTag-DFPNew_RS95_AllAITools_Infiycube_Native_060223_InApp",
+		"Admob_Banner": "/229445249,22796693593/DWTag-DFPNew_RS95_AllAITools_Infiycube_Banner_060223_InApp"
 	},
 	"Facebook": {
 		"FB_adstatus": false,
