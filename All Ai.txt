@@ -1,6 +1,6 @@
 {
 	"adstatus": true,
-	"specificad": false,
+	"specificad": true,
 	"alternatead": false,
 	"alternate_data": {
 		"Appopen": "Admob",
