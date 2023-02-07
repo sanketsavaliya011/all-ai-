@@ -37,8 +37,8 @@
 	"NativeBlink": false,
 	"NativeBanner": false,
 	"AdDialog": false,
-	"BackAd": false,
-	"BackAdPlatform": "Facebook",
+	"BackAd": true,
+	"BackAdPlatform": "Admob",
 	"ExtraScreen": "3",
 	"PrivacyPolicy": ""
 }
