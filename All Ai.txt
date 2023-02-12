@@ -17,9 +17,9 @@
 	},
 	"Facebook": {
 		"FB_adstatus": true,
-		"FB_Interstrial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-		"FB_Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-		"FB_Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+		"FB_Interstrial": "1403863413762957_1403864230429542",
+		"FB_Native": "1403863413762957_1403864453762853",
+		"FB_Banner": "1403863413762957_1403864370429528"
 	},
 	"Applovin": {
 		"Applovin_adstatus": false,
