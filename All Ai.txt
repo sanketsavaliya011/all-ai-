@@ -1,22 +1,22 @@
 {
 	"adstatus": true,
-	"specificad": true,
-	"alternatead": false,
+	"specificad": false,
+	"alternatead": true,
 	"alternate_data": {
 		"Appopen": "Admob",
 		"Interstrial": "Facebook",
 		"Native": "Facebook",
-		"Banner": "Admob"
+		"Banner": "Facebook"
 	},
 	"Admob": {
-		"Admob_adstatus": true,
+		"Admob_adstatus": false,
 		"Admob_Appopen": "/229445249,22796693593/DWTag-DFPNew_RS95_AllAITools_Infiycube_AppOpen_060223_InApp",
 		"Admob_Interstrial": "/229445249,22796693593/DWTag-DFPNew_RS95_AllAITools_Infiycube_Interstitial_060223_InApp",
 		"Admob_Native": "/229445249,22796693593/DWTag-DFPNew_RS95_AllAITools_Infiycube_Native_060223_InApp",
 		"Admob_Banner": "/229445249,22796693593/DWTag-DFPNew_RS95_AllAITools_Infiycube_Banner_060223_InApp"
 	},
 	"Facebook": {
-		"FB_adstatus": false,
+		"FB_adstatus": true,
 		"FB_Interstrial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 		"FB_Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 		"FB_Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
@@ -32,13 +32,13 @@
 		"Native_Count": 0,
 		"Banner_Count": 0,
 		"Back_Inter_count":0,
-		"onResumeOpenAd": false
+		"onResumeOpenAd": true
 	},
 	"NativeBlink": false,
 	"NativeBanner": false,
-	"AdDialog": false,
+	"AdDialog": true,
 	"BackAd": true,
-	"BackAdPlatform": "Admob",
+	"BackAdPlatform": "Facebook",
 	"ExtraScreen": "3",
 	"PrivacyPolicy": ""
 }
